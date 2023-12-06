@@ -11,7 +11,7 @@ function App() {
             <br/>
             <div className="box text-primary">External CSS Box</div>
             <br/>
-            <div className="bg-red p-10 text-center">TailwindCSS</div>
+            {/*<div className="bg-red p-10 text-center">TailwindCSS</div>*/}
         </>
     );
 }
