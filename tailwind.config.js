@@ -7,7 +7,8 @@ module.exports = {
                 sans: ['Oswald', 'sans-serif']
             },
             colors: {
-                primary: "#FFFFFF"
+                primary: "#FFFFFF",
+                secondary: "#000000",
             }
         },
     },

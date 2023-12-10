@@ -7,11 +7,11 @@ function App() {
           Hello world!
         </h1>*/
         <>
-            <div style={{backgroundColor: "red", padding: 10, textAlign: "center"}}>Inline CSS</div>
+            <div style={{backgroundColor: "grey", padding: 10, textAlign: "center"}}>Inline CSS</div>
             <br/>
-            <div className="box text-primary">External CSS Box</div>
+            <div className="box text-secoundary">External CSS Box</div>
             <br/>
-            <div className="bg-red p-10 text-center">TailwindCSS</div>
+            <div className="bg-amber-400 p-10 text-center">TailwindCSS</div>
         </>
     );
 }
